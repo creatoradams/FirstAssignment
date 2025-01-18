@@ -1,9 +1,9 @@
 // Nick Adams : First Github Assignment
-package HelloWorld;
+// package HelloWorld;
 
 import java.util.Scanner;
 
-public class HelloWorld
+public class Greeter
 {
     public static void main(String[] args)
     {
